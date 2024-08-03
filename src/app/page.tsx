@@ -1,6 +1,7 @@
 import AdidasTestimonials from "@/components/AdidasTestimonials";
 import FeaturedShoes from "@/components/FeaturedShoes";
 import HeroSection from "@/components/HeroSection";
+import UpcomingWebinars from "@/components/UpcomingWebinars";
 import WhyChoseUs from "@/components/WhyChoseUs";
 
 export default function Home() {
@@ -10,6 +11,7 @@ export default function Home() {
     <FeaturedShoes/>
     <WhyChoseUs/>
     <AdidasTestimonials/>
+    <UpcomingWebinars/>
    </main>
   );
 }
