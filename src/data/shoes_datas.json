@@ -1,0 +1,104 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Ultraboost 21",
+      "slug": "ultraboost-21",
+      "description": "Experience unparalleled comfort and energy return with the Ultraboost 21.",
+      "price": 180.00,
+      "designer": "Adidas Design Team",
+      "isFeatured": true,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bb830310a8654dddaa8e475a28c33982_9366/Ultraboost_5x_Shoes_Black_JI1332_HM1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "NMD_R1",
+      "slug": "nmd_r1",
+      "description": "Blend style and performance with the iconic NMD_R1 sneakers.",
+      "price": 140.00,
+      "designer": "Nic Galway",
+      "isFeatured": false,
+      "image": "https://example.com/images/nmd_r1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Superstar",
+      "slug": "superstar",
+      "description": "Step into timeless style with the classic Adidas Superstar shoes.",
+      "price": 85.00,
+      "designer": "Adidas Originals",
+      "isFeatured": true,
+      "image": "https://example.com/images/superstar.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Stan Smith",
+      "slug": "stan-smith",
+      "description": "Iconic and sustainable, the Stan Smith shoes are a must-have.",
+      "price": 100.00,
+      "designer": "Adidas Originals",
+      "isFeatured": false,
+      "image": "https://example.com/images/stan-smith.jpg"
+    },
+    {
+      "id": 5,
+      "title": "ZX 2K Boost",
+      "slug": "zx-2k-boost",
+      "description": "Elevate your style and comfort with the modern ZX 2K Boost.",
+      "price": 150.00,
+      "designer": "Adidas Design Team",
+      "isFeatured": false,
+      "image": "https://example.com/images/zx-2k-boost.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Yeezy Boost 350 V2",
+      "slug": "yeezy-boost-350-v2",
+      "description": "Embrace the future of fashion with the Yeezy Boost 350 V2.",
+      "price": 220.00,
+      "designer": "Kanye West",
+      "isFeatured": true,
+      "image": "https://example.com/images/yeezy-boost-350-v2.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Adizero Adios Pro",
+      "slug": "adizero-adios-pro",
+      "description": "Achieve peak performance with the Adizero Adios Pro racing shoes.",
+      "price": 200.00,
+      "designer": "Adidas Running",
+      "isFeatured": false,
+      "image": "https://example.com/images/adizero-adios-pro.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Forum Low",
+      "slug": "forum-low",
+      "description": "Retro basketball style meets modern comfort in the Forum Low.",
+      "price": 90.00,
+      "designer": "Adidas Originals",
+      "isFeatured": true,
+      "image": "https://example.com/images/forum-low.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Terrex Free Hiker",
+      "slug": "terrex-free-hiker",
+      "description": "Conquer any terrain with the versatile Terrex Free Hiker shoes.",
+      "price": 200.00,
+      "designer": "Adidas Outdoor",
+      "isFeatured": false,
+      "image": "https://example.com/images/terrex-free-hiker.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Solarboost 3",
+      "slug": "solarboost-3",
+      "description": "Run further with the responsive cushioning of Solarboost 3.",
+      "price": 160.00,
+      "designer": "Adidas Running",
+      "isFeatured": true,
+      "image": "https://example.com/images/solarboost-3.jpg"
+    }
+  ]
+}
