@@ -20,7 +20,7 @@ function Navbar({ className }: { className?: string }) {
         </Link>
         <MenuItem setActive={setActive} active={active} item="Our Catogeries">
           <div className="flex flex-col space-y-4 text-sm">
-            <HoveredLink href="/shoes">Sneaker</HoveredLink>
+            <HoveredLink href="/shoe">Sneaker</HoveredLink>
             <HoveredLink href="/shoes">Sports</HoveredLink>
             <HoveredLink href="/shoes">Casual</HoveredLink>
             <HoveredLink href="/shoes">Gym</HoveredLink>
