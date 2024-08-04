@@ -1,9 +1,14 @@
+"use client";
+
 import React from "react";
 import Link from "next/link";
 import { Button } from "@/components/ui/moving-border";
 import { Spotlight } from "@/components/ui/Spotlight";
 
 const HeroSection = () => {
+  // Example items for demonstration (assuming Spotlight uses them)
+  const exampleItems = ["Item 1", "Item 2", "Item 3"]; 
+
   return (
     <div className="h-auto md:h-[40rem] w-full rounded-md flex flex-col items-center justify-center relative overflow-hidden mx-auto py-10 md:py-0">
       <Spotlight
@@ -16,7 +21,7 @@ const HeroSection = () => {
         </h1>
         <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
           Step into the world of Adidas and transform your athletic journey
-          today. Whether you're just starting out or seeking to enhance your
+          today. Whether you&apos;re just starting out or seeking to enhance your
           performance, join us to unlock your full potential and achieve
           greatness.
         </p>
