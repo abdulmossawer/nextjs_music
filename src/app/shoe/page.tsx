@@ -20,7 +20,7 @@ import shoeData from "@/data/shoes_datas.json"
 const page = () => {
   return (
     <div className="min-h-screen bg-black py-12 pt-36">
-        <h1 className="text-lg md:text-7xl text-center font-sans font-bold mb-8 text-white">All courses ({shoeData.shoes.length})</h1>  
+        <h1 className="text-lg md:text-7xl text-center font-sans font-bold mb-8 text-white">All Shoes ({shoeData.shoes.length})</h1>  
         <div className="flex flex-wrap justify-center">
 
             {shoeData.shoes.map((shoe) => (

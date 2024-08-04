@@ -33,6 +33,7 @@ function Navbar({ className }: { className?: string }) {
             item="Contact Us"
           ></MenuItem>
         </Link>
+       
       </Menu>
     </div>
   );

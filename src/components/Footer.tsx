@@ -7,9 +7,7 @@ function Footer() {
           <div>
             <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
             <p className="mb-4">
-              Music School is a premier institution dedicated to teaching the art
-              and science of music. We nurture talent from the ground up,
-              fostering a vibrant community of musicians.
+            Adidas is dedicated to providing top-notch footwear that blends style and performance. We nurture your athletic potential, fostering a community of achievers who excel in every step they take.
             </p>
           </div>
           <div>
@@ -36,7 +34,7 @@ function Footer() {
                   href="#"
                   className="hover:text-white transition-colors duration-300"
                 >
-                  Courses
+                  Shoes
                 </a>
               </li>
               <li>
@@ -74,13 +72,13 @@ function Footer() {
           </div>
           <div>
             <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
-            <p>New Delhi, India</p>
-            <p>Delhi 10001</p>
-            <p>Email: info@musicschool.com</p>
+            <p>California, USA</p>
+            <p>California 10001</p>
+            <p>Email: info@adidas.com</p>
             <p>Phone: (123) 456-7890</p>
           </div>
           </div>
-          <p className="text-center text-xs pt-8">© 2024 Music School. All rights reserved.</p>
+          <p className="text-center text-xs pt-8">© 2024 Adidas. All rights reserved.</p>
       </footer>
     )
   }
